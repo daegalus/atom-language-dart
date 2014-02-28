@@ -1,9 +1,8 @@
 {
   "name": "language-dart",
   "version": "0.0.0",
-  "private": true,
-  "description": "A short description of your package",
-  "repository": "https://github.com/atom/language-dart",
+  "description": "Dart language support for Atom",
+  "repository": "https://github.com/Daegalus/atom-language-dart",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

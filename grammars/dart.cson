@@ -95,6 +95,10 @@
         'match': '(_?[a-z][a-zA-Z]+)(?=\\\(\\\[)'
         'name': 'entity.name.function.dart'
       }
+      {
+        'match': '\\b[A-Z_0-9]+\\b'
+        'name': 'support.constant.dart'
+      }
     ]
   'keywords':
     'patterns': [

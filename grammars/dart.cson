@@ -33,6 +33,9 @@
     'include': '#comments'
   }
   {
+    'include': '#annotations'
+  }
+  {
     'include': '#constants-and-special-vars'
   }
   {
@@ -71,6 +74,13 @@
           '1':
             'name': 'comment.line.double-slash.dart'
         'match': '((//).*)$'
+      }
+    ]
+  'annotations':
+    'patterns': [
+      {
+        'match': '\@[a-zA-Z]+'
+        'name': 'storage.type.annotation.dart'
       }
     ]
   'constants-and-special-vars':

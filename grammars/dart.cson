@@ -129,6 +129,10 @@
         'name': 'keyword.control.dart'
       }
       {
+        'match': '\\b(sync\\*|async(\\*)?|await|yield(\\*)?)'
+        'name': 'keyword.control.dart'
+      }
+      {
         'match': '\\b(new)\\b'
         'name': 'keyword.control.new.dart'
       }

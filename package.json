@@ -1,5 +1,6 @@
 {
   "name": "language-dart",
+  "main": "./lib/deprecated",
   "version": "0.2.0",
   "description": "Dart language support for Atom",
   "repository": "https://github.com/Daegalus/atom-language-dart",

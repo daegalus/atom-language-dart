@@ -1,3 +1,5 @@
+THIS PROJECT IS DEPRECATED AND ABANDONED. PLEASE USE https://atom.io/packages/dartlang, a more official and better version. Most of my stuff is merged into it.
+
 # Dart language support
 
 Adds support for Dart snippets, grammar and syntax highlighting to Atom.
